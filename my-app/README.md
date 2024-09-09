@@ -1,9 +1,7 @@
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
-Jazmine Sharpe
-Student ID:
-011147664
+
 
 
 ## Development server
